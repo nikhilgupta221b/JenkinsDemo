@@ -1,1 +1,1 @@
-print("Hello 2 webhook\n")
+print("Hello to webhook\n")
